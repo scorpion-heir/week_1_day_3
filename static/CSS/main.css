@@ -1,0 +1,17 @@
+main {
+    margin: 20px
+}
+
+
+
+.btn-submit {
+    background-color: #f3d078;
+    border-color: ;
+    background-image: linear-gradient(to bottom, #f7dfa5, #f0c14b);
+
+}
+
+.btn-submit:hover {
+    border-color: ;
+    background-image: ;
+}
